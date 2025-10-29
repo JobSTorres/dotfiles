@@ -1,7 +1,7 @@
 Dotfiles
 
 
-Es necesario tener instalado los sioguiente:
+Es necesario tener instalado los siguiente:
 
     
     nautilus
